@@ -1,3 +1,4 @@
+//제가 문제를 이해한것을 바탕으로 의사코드를 작성해서, 그것에 맞추어 구현해본 코드입니다.
 using System;
 
 public class Solution 
